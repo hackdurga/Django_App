@@ -23,14 +23,14 @@ $ python manage.py runserver
 (http://127.0.0.1:8000/)
 
 ## For API
-[http://127.0.0.1:8000/api/](http://127.0.0.1:8000/api/)
+[](http://127.0.0.1:8000/api/)
 ## For Admin
-[ http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
+[](http://127.0.0.1:8000/admin/)
 
 # For CRUD Operation
 
 ### Create
-[ http://127.0.0.1:8000/](http://127.0.0.1:8000/api/create)http://127.0.0.1:8000/api/create]
+[](http://127.0.0.1:8000/api/create)http://127.0.0.1:8000/api/create]
 
 ### for Delete operation give the id no.
 [](http://127.0.0.1:8000/api/delete/1)
