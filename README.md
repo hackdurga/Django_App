@@ -11,10 +11,11 @@
 ### After that move to ToDoList directory
 `cd ToDoList`
 ## Run The Django Project Server
-`python manage.py runserver`
-
+```shell
+$ python manage.py runserver
+```
 ## After that you have to go to 
-[Local Address ](http://127.0.0.1:8000/)
+(http://127.0.0.1:8000/)
 
 ## For API
 [http://127.0.0.1:8000/api/](http://127.0.0.1:8000/api/)
@@ -27,9 +28,9 @@
 [ http://127.0.0.1:8000/](http://127.0.0.1:8000/api/create)http://127.0.0.1:8000/api/create]
 
 ### for Delete operation give the id no.
-[Delete](http://127.0.0.1:8000/api/delete/1)
+[](http://127.0.0.1:8000/api/delete/1)
 
-### For Update and rename Operation only give id
+### For Update and rename Operations only give the id
 [](http://127.0.0.1:8000/api/1/)
 
 # For Unit Test 
