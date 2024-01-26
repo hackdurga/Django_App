@@ -23,20 +23,20 @@ $ python manage.py runserver
 (http://127.0.0.1:8000/)
 
 ## For API
-[](http://127.0.0.1:8000/api/)
+[http://127.0.0.1:8000/api/](http://127.0.0.1:8000/api/)
 ## For Admin
-[](http://127.0.0.1:8000/admin/)
+[http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 
 # For CRUD Operation
 
 ### Create
-[](http://127.0.0.1:8000/api/create)http://127.0.0.1:8000/api/create]
+[http://127.0.0.1:8000/api/create](http://127.0.0.1:8000/api/create)
 
 ### for Delete operation give the id no.
-[](http://127.0.0.1:8000/api/delete/1)
+[http://127.0.0.1:8000/api/delete/1](http://127.0.0.1:8000/api/delete/1)
 
 ### For Update and rename Operations only give the id
-[](http://127.0.0.1:8000/api/1/)
+[http://127.0.0.1:8000/api/1/](http://127.0.0.1:8000/api/1/)
 
 # For Unit Test 
 ```shell
@@ -50,6 +50,6 @@ $ pip install drf-yasg
 ```
 
 ### After Running Server you will Find details of This API In the Documentation
-[](http://127.0.0.1:8000/swagger/)
+[http://127.0.0.1:8000/swagger/](http://127.0.0.1:8000/swagger/)
 ### or
-[](http://127.0.0.1:8000/redoc/)
+[http://127.0.0.1:8000/redoc/](http://127.0.0.1:8000/redoc/)
